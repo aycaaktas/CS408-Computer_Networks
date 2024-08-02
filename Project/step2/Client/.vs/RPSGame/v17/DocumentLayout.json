@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|c:\\users\\mavis\\downloads\\aycaaktas_aktas_aycaelif_step2 debugged\\aycaaktas_aktas_aycaelif_step2 2\\aycaaktas_aktas_aycaelif_step1\\client\\rpsgame\\client\\forms\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|solutionrelative:client\\forms\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|c:\\users\\mavis\\downloads\\aycaaktas_aktas_aycaelif_step2 debugged\\aycaaktas_aktas_aycaelif_step2 2\\aycaaktas_aktas_aycaelif_step1\\client\\rpsgame\\client\\forms\\gamemain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|solutionrelative:client\\forms\\gamemain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\client\\forms\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|solutionrelative:client\\forms\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\client\\forms\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|solutionrelative:client\\forms\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35642BF-781C-451D-B4A1-FBF395137695}|RPSGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Forms\\GameMain.Designer.cs",
+              "ToolTip": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.Designer.cs",
+              "RelativeToolTip": "Client\\Forms\\GameMain.Designer.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAIAwwMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:33:19.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameServer.cs",
+              "RelativeDocumentMoniker": "Client\\Forms\\GameServer.cs",
+              "ToolTip": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameServer.cs [Design]",
+              "RelativeToolTip": "Client\\Forms\\GameServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:18:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:27:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMain.cs",
+              "DocumentMoniker": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.cs",
+              "RelativeDocumentMoniker": "Client\\Forms\\GameMain.cs",
+              "ToolTip": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.cs",
+              "RelativeToolTip": "Client\\Forms\\GameMain.cs",
+              "ViewState": "AQIAAJsAAAAAZHCJiVA0wKUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:31:08.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.cs",
+              "RelativeDocumentMoniker": "Client\\Forms\\GameMain.cs",
+              "ToolTip": "C:\\Users\\mavis\\Downloads\\aycaaktas_aktas_aycaelif_Step2 debugged\\aycaaktas_aktas_aycaelif_Step2 2\\aycaaktas_aktas_aycaelif_Step1\\Client\\RPSGame\\Client\\Forms\\GameMain.cs [Design]",
+              "RelativeToolTip": "Client\\Forms\\GameMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:31:04.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

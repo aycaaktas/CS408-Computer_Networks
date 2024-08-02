@@ -1,0 +1,23 @@
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.Client.Forms.GameServer.resources
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.Properties.Resources.resources
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\bin\Release\RPSGame.exe.config
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\bin\Release\RPSGame.exe
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\bin\Release\RPSGame.pdb
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.exe
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.pdb
+\\Mac\Home\Desktop\senior 4.2\CS408\project_step1\RPSGame\obj\Release\RPSGame.Client.Forms.GameMain.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Release\RPSGame.exe.config
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Release\RPSGame.exe
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Release\RPSGame.pdb
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.csproj.AssemblyReference.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.Client.Forms.GameMain.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.Client.Forms.GameServer.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.Properties.Resources.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.csproj.GenerateResource.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.exe
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Release\RPSGame.pdb

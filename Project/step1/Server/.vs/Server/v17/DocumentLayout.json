@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|c:\\users\\aycaaelifaktas\\onedrive - sabanciuniv.edu\\desktop\\cs408\\project\\step1\\aycaaktas_aktas_aycaelif_step1\\server\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{04ADDDC0-2B43-44DC-9071-A37C2DE9107A}|Server.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAUwLsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:56:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:52:23.801Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\GameRoom.cs",
+              "RelativeDocumentMoniker": "GameRoom.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\GameRoom.cs",
+              "RelativeToolTip": "GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:27:14.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ClientHandler.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\ClientHandler.cs",
+              "RelativeToolTip": "ClientHandler.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAEwEQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:55:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:03:02.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwDEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:14:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:14:34.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\aycaaelifaktas\\OneDrive - sabanciuniv.edu\\Desktop\\CS408\\Project\\step1\\aycaaktas_aktas_aycaelif_Step1\\Server\\Server\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-17T22:38:27.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

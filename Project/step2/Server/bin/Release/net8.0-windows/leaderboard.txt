@@ -1,0 +1,4 @@
+player1 1
+player13 0
+player12 1
+player14 0

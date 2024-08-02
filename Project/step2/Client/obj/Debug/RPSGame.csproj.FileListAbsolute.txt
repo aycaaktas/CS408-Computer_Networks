@@ -1,0 +1,11 @@
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.AssemblyReference.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Client.Forms.GameMain.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Client.Forms.GameServer.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.Properties.Resources.resources
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.GenerateResource.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\aycaaelifaktas\OneDrive - sabanciuniv.edu\Desktop\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
